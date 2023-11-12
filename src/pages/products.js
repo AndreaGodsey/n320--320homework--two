@@ -22,7 +22,7 @@ const [address, setAddress] = React.useState('123 Business Address');
     function orderFormSubmit(e){
         e.preventDefault();
         if(fullName !== '' && email !== '' && phone !== '' && address !== ''){
-            router.push('/products/successoptiontwo')
+            router.push('../products/successoptiontwo')
         }
         console.log(fullName, email, phone, address);
     }
@@ -30,7 +30,7 @@ const [address, setAddress] = React.useState('123 Business Address');
     function orderFormSubmitTwo(e){
         e.preventDefault();
         if(fullName !== '' && email !== '' && phone !== '' && address !== ''){
-            router.push('/products/successoptionthree')
+            router.push('../products/successoptionthree')
         }
         console.log(fullName, email, phone, address);
     }
@@ -38,7 +38,7 @@ const [address, setAddress] = React.useState('123 Business Address');
     function orderFormSubmitThree(e){
         e.preventDefault();
         if(fullName !== '' && email !== '' && phone !== '' && address !== ''){
-            router.push('/products/successoptionfour')
+            router.push('../products/successoptionfour')
         }
         console.log(fullName, email, phone, address);
     }
