@@ -12,9 +12,7 @@ A bit of a warning! When you click on the vercel link for my homework in this Re
 
 Throughout this website, I have used mulitple components, including repeating components such as the image at the top of the page. This image contains the words, Home, Products, About, and Contact, so the viewer can understand what page they are on. The images themselves on each page are also components, as well as the descriptions on the about and products page.
 
-I have figured out my problem with the nesting routes! This section can be found in the products tab under catering services at the bottom of the page!
-
-Order Cookies will take the user to a page displaying pretend information of them ordering two hundred cookies.
+I have figured out my problem with the nesting routes! This section can be found in the products tab under catering services at the bottom of the page!Order Cookies will take the user to a page displaying pretend information of them ordering two hundred cookies.
 
 The order now button under the order cakes section, will now display information about someone supposedly ordering three cakes, as well as other order information.
 
